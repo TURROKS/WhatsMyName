@@ -7206,7 +7206,7 @@
     },
     {
       "name": "Reddit",
-      "uri_check": "https://www.reddit.com/user/{account}/about/.json",
+      "uri_check": "https://www.reddit.com/user/{account}/about.json",
       "uri_pretty": "https://www.reddit.com/user/{account}",
       "e_code": 200,
       "e_string": "total_karma",
